@@ -1,0 +1,183 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    line-height: 150%;
+}
+
+#title {
+    text-align: left;
+}
+
+/* Containers */
+
+.container-fluid {
+    padding: 3% 15% 7%;
+}
+
+/* Sections */
+
+.colored-section {
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+.white-section {
+    background-color: #fff;
+}
+
+/* Headings */
+
+.big-heading {
+    font-size: 3rem;
+    padding-bottom: 20px;
+}
+
+/* Navagation Bar */
+
+.navbar {
+    padding: 8px 16px 8px 0;
+    padding-bottom: 4.5rem;
+}
+
+ul>li>a {
+    font-family: 'Ubuntu', sans-serif;
+    padding: 0 20px 0 20px;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+ul>li {
+    padding-right: 30px;
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+/* Download Buttons */
+
+.dwnLd {
+    margin: 10px 10px 10px 0;
+}
+
+/* iPhone Image */
+
+.iphone {
+    transform: rotate(25deg);
+    width: 60%;
+    margin-top: 25px;
+    position: absolute;
+    right: 30%;
+}
+
+/* Features */
+
+#features {
+    padding: 8% 0 3% 0;
+    position: relative;
+}
+
+.eachFeature {
+    padding: 5%;
+}
+
+.features-icon {
+    color: #ef8172;
+    padding-bottom: 1rem;
+}
+
+.features-icon:hover {
+    color: #ff4c68;
+}
+
+.feature-titles {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 1.5rem;
+}
+
+.features-pg {
+    color: #8f8f8f;
+}
+
+/* Testimonial section */
+
+#testimonials {
+    background-color: #ef8172;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+.testimonial-img {
+    border-radius: 100%;
+    width: 10%;
+    margin: 20px;
+}
+
+/* Press section */
+
+#press {
+    background-color: #ef8172;
+    padding-bottom: 3%;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+/* Pricing section */
+
+#pricing {
+    padding: 100px;
+}
+
+.pricing-column {
+    padding: 3% 2%;
+}
+
+/* CTA section */
+
+#cta {
+    padding: 150px;
+}
+
+.ctaText {
+    font-size: 3rem;
+    padding-bottom: 20px;
+}
+
+/* Footer section */
+
+#footer {
+    padding: 8% 0 3% 0;
+}
+
+.smIcons {
+    margin: 10px;
+}
+
+@media (max-width: 1028px) {
+    #title {
+        background-size: cover;
+    }
+
+    .iphone {
+        position: static;
+        transform: rotate(0);
+    }
+}

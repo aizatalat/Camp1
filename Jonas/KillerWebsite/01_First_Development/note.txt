@@ -1,0 +1,14 @@
+https://necolas.github.io/normalize.css/
+https://necolas.github.io/normalize.css/3.0.2/normalize.css
+https://necolas.github.io/normalize.css/latest/normalize.css
+
+
+
+What is normalize in CSS?
+Normalize.css is a small CSS file that provides better cross-browser consistency in the default styling of HTML elements. It's a modern, HTML5-ready, alternative to the traditional CSS reset. Normalize.css project site. Normalize.css source on GitHub.
+Normalize.css makes browsers render all elements more consistently and in line with modern standards. It precisely targets only the styles that need normalizing.
+
+https://fonts.google.com/selection?query=lat&selection.family=Lato
+
+<link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,300italic' rel='stylesheet' type='text/css'>
+<link href="https://fonts.googleapis.com/css?family=Lato:100,300,300i,400&display=swap" rel="stylesheet">

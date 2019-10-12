@@ -1,0 +1,8 @@
+Blind text generator
+https://www.blindtextgenerator.com/lorem-ipsum
+
+clearfix
+A clearfix is a way for an element to automatically clear its child elements, so that you don't need to add additional markup. It's generally used in float layouts where elements are floated to be stacked horizontally. The clearfix is a way to combat the zero-height container problem for floated elements.
+
+normalize
+It fixes common desktop and mobile browser bugs that are out of scope for resets. This includes display settings for HTML5 elements, correcting font-size for preformatted text, SVG overflow in IE9, and many form-related bugs across browsers and operating systems.

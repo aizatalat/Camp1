@@ -1,0 +1,4 @@
+https://ionicons.com/ (ionicons version 2)
+
+// Favicon Generator
+https://realfavicongenerator.net/

@@ -1,0 +1,6 @@
+Media Queries and BreakPoints
+0px - 480px
+481px - 767px
+768px - 1023px
+1200px or more
+

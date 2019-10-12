@@ -1,0 +1,7 @@
+http://imakewebthings.com/waypoints/
+
+
+Smoothe Scrolling in jQuery
+"Smooth Scrolling" is a very useful feature and can be found in almost all popular web browsers such as Mozilla Firefox, Internet Explorer, Opera, etc. Smooth Scrolling slides down the web page smoothly and helps you in reading a long web page easily.
+
+https://css-tricks.com/snippets/jquery/smooth-scrolling/

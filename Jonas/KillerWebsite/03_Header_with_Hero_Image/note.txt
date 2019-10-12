@@ -1,0 +1,8 @@
+<link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,300italic' rel='stylesheet' type='text/css'>
+
+http://www.flatuicolorpicker.com/#
+https://flatuicolors.com/palette/defo
+
+Carrot = #e67e22
+
+https://www.0to255.com/cf6d17

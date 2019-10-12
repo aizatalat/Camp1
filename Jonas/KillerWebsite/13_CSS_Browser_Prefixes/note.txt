@@ -1,0 +1,23 @@
+CSS Browser Prefixes (Autoprefixer)
+Android : -webkit-
+Chrome  : -webiit-
+Firefox : -moz-
+IE      : -ms-
+iOS     : -webkit-
+Opera   : -o-
+Safari  : -webkit-
+
+For Example:
+-webkit-border-radius: 25px
+-moz-border-radius: 25px
+-o-border-radius: 25px
+border-radius: 25px
+
+https://www.jsdelivr.com/ (select and copy html)
+respond
+html5shiv
+https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js
+- selectivizr2 (select and copy html)
+<script src="https://cdn.jsdelivr.net/npm/selectivizr2@1.0.9/selectivizr2.min.js"></script>
+
+https://caniuse.com/
